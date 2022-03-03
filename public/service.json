@@ -1,0 +1,52 @@
+[
+    {
+        "_id": "01",
+        "service": "Indonesia",
+        "imageUrl": "https://dragonholidaysbd.com/wp-content/uploads/2019/03/03-Indonesia-Bali-Vacations-1000x450.jpg",
+        "cost": "8999",
+        "description": "On arrival at Bali airport you will be transferred by our representative to hotel. You are then free to spend the rest of day exploring Bali at your own pace. Overnight stay in Bali.",
+        "details": "hello"
+    },
+    {
+        "_id": "02",
+        "service": "Bangkok",
+        "imageUrl": "https://dragonholidaysbd.com/wp-content/uploads/2018/05/siam-center-shopping-center-1-1000x450.jpg",
+        "cost": "28999",
+        "description": "On arrival at Bangkok airport you will be transferred by our representative to hotel. You are then free to spend the rest of day exploring Bangkok at your own pace. Overnight stay in Bangkok.  "
+    },
+    {
+        "_id": "03",
+        "service": "Malaysia",
+        "imageUrl": "https://dragonholidaysbd.com/wp-content/uploads/2018/03/5_Cover.jpg",
+        "cost": "18999",
+        "description": "On arrival airport you will be transferred by our representative to hotel. You are then free to spend the rest of day exploring your own pace."
+    },
+    {
+        "_id": "04",
+        "service": "Singapore",
+        "imageUrl": "https://dragonholidaysbd.com/wp-content/uploads/2015/04/9-Cover.jpg",
+        "cost": "34999",
+        "description": "On arrival at Bali airport you will be transferred by our representative to hotel. You are then free to spend the rest of day exploring Bali at your own pace."
+    },
+    {
+        "_id": "05",
+        "service": "Australia",
+        "imageUrl": "https://dragonholidaysbd.com/wp-content/uploads/2018/05/POST_05-1-1000x450.jpg",
+        "cost": "45764",
+        "description": "On arrival at Bali airport you will be transferred by our representative to hotel. You are then free to spend the rest of day exploring Bali at your own pace."
+    },
+    {
+        "_id": "06",
+        "service": "Russia",
+        "imageUrl": "https://dragonholidaysbd.com/wp-content/uploads/2018/05/russia-moscow-1-1.jpg",
+        "cost": "34999",
+        "description": "On arrival at Bali airport you will be transferred by our representative to hotel. You are then free to spend the rest of day exploring  at your own pace."
+    },
+    {
+        "_id": "07",
+        "service": "Middle East",
+        "imageUrl": "https://dragonholidaysbd.com/wp-content/uploads/2018/05/burj-al-arab-terrace-dubai-uae-39192-10864506-1000x500.jpg",
+        "cost": "38999",
+        "description": "On arrival at airport you will be transferred by our representative to hotel. You are then free to spend the rest of day exploring at your own pace."
+    }
+]
